@@ -1962,7 +1962,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
+		background-color: #db2020;
 		color: #fff !important;
 	}
 
@@ -1971,7 +1971,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4aa3df;
+			background-color: #df4a4a;
 		}
 
 		input[type="submit"]:active,
@@ -1979,7 +1979,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #258cd1;
+			background-color: #d12525;
 		}
 
 		input[type="submit"].alt,
@@ -3107,8 +3107,8 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
-			color: #aed6f1;
+			background-color: #eb2020;
+			color: #ff0;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3128,7 +3128,7 @@
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #fff;
+				color: #ff0;
 			}
 
 			.wrapper.style2 blockquote {
@@ -3319,7 +3319,7 @@
 			}
 
 			.wrapper.style2 .image {
-				box-shadow: 0px 0px 0px 7px #3498db, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
+				box-shadow: 0px 0px 0px 7px #eb2020, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3427,11 +3427,11 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #3498db;
+				color: #df4a4a;
 			}
 
 				#header > .logo a:hover {
-					color: #3498db;
+					color: #df4a4a;
 				}
 
 			#header > .logo span {
@@ -3453,7 +3453,7 @@
 		}
 
 			#header > a:hover {
-				color: #3498db;
+				color: #db4a4a;
 			}
 
 			#header > a[href="#menu"] {
@@ -3613,7 +3613,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #3498db;
+						color: #df4a4a;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -3657,7 +3657,7 @@
 			}
 
 			#menu .close:hover {
-				color: #3498db;
+				color: #df4a4a;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3705,7 +3705,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/pic_cwd.png");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
