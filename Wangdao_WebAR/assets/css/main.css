@@ -1962,7 +1962,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #db2020;
+		background-color: #3498db;
 		color: #fff !important;
 	}
 
@@ -1971,7 +1971,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #df4a4a;
+			background-color: #4aa3df;
 		}
 
 		input[type="submit"]:active,
@@ -1979,7 +1979,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #d12525;
+			background-color: #258cd1;
 		}
 
 		input[type="submit"].alt,
@@ -2871,7 +2871,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 2em 0 1em 0;
 		position: relative;
 	}
 
@@ -3427,11 +3427,11 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #df4a4a;
+				color: #3498db;
 			}
 
 				#header > .logo a:hover {
-					color: #df4a4a;
+					color: #3498db;
 				}
 
 			#header > .logo span {
@@ -3453,7 +3453,7 @@
 		}
 
 			#header > a:hover {
-				color: #db4a4a;
+				color: #3498db;
 			}
 
 			#header > a[href="#menu"] {
@@ -3613,7 +3613,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #df4a4a;
+						color: #3498db;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -3657,7 +3657,7 @@
 			}
 
 			#menu .close:hover {
-				color: #df4a4a;
+				color: #3498db;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3865,7 +3865,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 2em 4em 2em;
+		padding: 2em 2em 0em 2em;
 	}
 
 		#footer > .inner {
