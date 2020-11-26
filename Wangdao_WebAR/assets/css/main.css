@@ -1962,7 +1962,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
+		background-color: #db3434;
 		color: #fff !important;
 	}
 
@@ -1971,7 +1971,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4aa3df;
+			background-color: #df4a4a;
 		}
 
 		input[type="submit"]:active,
@@ -1979,7 +1979,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #258cd1;
+			background-color: #df4a4a;
 		}
 
 		input[type="submit"].alt,
@@ -2917,6 +2917,10 @@
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #000;
+				vertical-align: middle;
+			}
+			.wrapper.style1 img{
+				vertical-align: middle;
 			}
 
 			.wrapper.style1 blockquote {
@@ -3427,11 +3431,11 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #3498db;
+				color: #df4a4a;
 			}
 
 				#header > .logo a:hover {
-					color: #3498db;
+					color: #df4a4a;
 				}
 
 			#header > .logo span {
@@ -3453,7 +3457,7 @@
 		}
 
 			#header > a:hover {
-				color: #3498db;
+				color: #df4a4a;
 			}
 
 			#header > a[href="#menu"] {
@@ -3613,7 +3617,7 @@
 					}
 
 					#menu > ul.links > li:hover {
-						color: #3498db;
+						color: #df4a4a;
 					}
 
 					#menu > ul.links > li:first-child > a:not(.button) {
@@ -3657,7 +3661,7 @@
 			}
 
 			#menu .close:hover {
-				color: #3498db;
+				color: #df4a4a;
 			}
 
 			@media screen and (max-width: 736px) {
